@@ -1,0 +1,2 @@
+# iR-function
+The immunologist R (iR) function is meant to simply guide immunologist to quickly sort, plot and perform statistical analysis on their experimental data using predefined and editable R scripts. This will allow them to compare their variable (parameters) before and after vaccine stimulations or intervention. This script can be used by immunologist and students to quickly view and interpret their immunological data.
